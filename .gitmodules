@@ -1,0 +1,3 @@
+[submodule "third_party/bottleneck"]
+	path = third_party/bottleneck
+	url = https://github.com/tech-srl/bottleneck

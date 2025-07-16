@@ -1,0 +1,9 @@
+# --- Python virtual‑envs ---
+.venv/
+
+# --- Python build/by‑products you almost always want ignored ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
